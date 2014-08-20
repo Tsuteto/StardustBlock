@@ -1,0 +1,37 @@
+itemGroup.StardustBlock=Stardust Block
+
+tile.blockStardust.name=Stardust Block
+
+tile.blockStardust.desc.shape=%s-shaped
+tile.blockStardust.desc.stars=%s stars
+tile.blockStardust.desc.color=Dyed with %s
+
+tile.blockStardust.glowstone=Glowstone
+tile.blockStardust.black=Black
+tile.blockStardust.red=Red
+tile.blockStardust.green=Green
+tile.blockStardust.brown=Brown
+tile.blockStardust.blue=Blue
+tile.blockStardust.purple=Purple
+tile.blockStardust.cyan=Cyan
+tile.blockStardust.silver=Light Gray
+tile.blockStardust.gray=Gray
+tile.blockStardust.pink=Pink
+tile.blockStardust.lime=Lime
+tile.blockStardust.yellow=Yellow
+tile.blockStardust.lightBlue=Light Blue
+tile.blockStardust.magenta=Magenta
+tile.blockStardust.orange=Orange
+tile.blockStardust.white=White
+tile.blockStardust.pastel=Pastel
+
+tile.blockStardust.star=Star
+tile.blockStardust.circle=Circle
+tile.blockStardust.diamond=Diamond
+tile.blockStardust.heart=Heart
+tile.blockStardust.creeper=Creeper
+tile.blockStardust.cross=Cross
+tile.blockStardust.flower=Flower
+tile.blockStardust.ring=Ring
+
+tile.blockStardust.solid=Solid

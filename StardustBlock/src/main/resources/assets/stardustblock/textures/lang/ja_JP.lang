@@ -1,0 +1,37 @@
+itemGroup.StardustBlock=スターダストブロック
+
+tile.blockStardust.name=スターダストブロック
+
+tile.blockStardust.desc.shape=%s型
+tile.blockStardust.desc.stars=星: %s個
+tile.blockStardust.desc.color=色: %s
+
+tile.blockStardust.glowstone=グロウストーン
+tile.blockStardust.black=黒色
+tile.blockStardust.red=赤色
+tile.blockStardust.green=緑色
+tile.blockStardust.brown=茶色
+tile.blockStardust.blue=青色
+tile.blockStardust.purple=紫色
+tile.blockStardust.cyan=水色
+tile.blockStardust.silver=薄灰色
+tile.blockStardust.gray=灰色
+tile.blockStardust.pink=桃色
+tile.blockStardust.lime=黄緑色
+tile.blockStardust.yellow=黄色
+tile.blockStardust.lightBlue=空色
+tile.blockStardust.magenta=赤紫色
+tile.blockStardust.orange=橙色
+tile.blockStardust.white=白色
+tile.blockStardust.pastel=パステル
+
+tile.blockStardust.star=スター
+tile.blockStardust.circle=丸
+tile.blockStardust.diamond=ダイヤ
+tile.blockStardust.heart=ハート
+tile.blockStardust.creeper=クリーパー
+tile.blockStardust.cross=クロス
+tile.blockStardust.flower=フラワー
+tile.blockStardust.ring=リング
+
+tile.blockStardust.solid=つや消し
